@@ -7,7 +7,7 @@
 
 <p align="center"> :octocat: <b><a href="https://xxe.icu">Website</a> </p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secd0g&show_icons=true&theme=vue)
+专注于信息安全、Web渗透、红队攻防![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secd0g&show_icons=true&theme=vue)
 ## Technologies I'm Learning :books:
 
 #### Software:

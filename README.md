@@ -1,12 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secd0g&show_icons=true&theme=vue)
+
 <h1 align="center">Hi, I'm F0rmat! :stars:</h1>
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://xxe.icu">Website</a> </p>
 
 ## About Me :wave:
 
 Hey there! :smile: My name is F0rmat. 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secd0g&show_icons=true&theme=vue)
 
 ## Technologies I'm Learning :books:
 

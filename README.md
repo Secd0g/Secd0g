@@ -1,10 +1,4 @@
-
-
-
-
 ## About Me :wave:
-
-<h1 align="center">Hi, I'm F0rmat! :stars:</h1>
 
 <p align="center"> :octocat: <b><a href="https://xxe.icu">Website</a> </p>
   

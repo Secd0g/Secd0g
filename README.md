@@ -4,9 +4,10 @@
 <p align="center"> :octocat: <b><a href="https://xxe.icu">Website</a> </p>
 
 ## About Me :wave:
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secd0g&show_icons=true&theme=vue)
 
 Hey there! :smile: My name is F0rmat. 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secd0g&show_icons=true&theme=vue)
+
 
 ## Technologies I'm Learning :books:
 
@@ -47,6 +48,5 @@ Hey there! :smile: My name is F0rmat.
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
-<hr/>
 
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
+
